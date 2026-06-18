@@ -6,3 +6,10 @@ cidcheck.js
 cidcheck2.js
 cidcheck3.js
 node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.emergent/
+memory/
+test_reports/
+.gitconfig
